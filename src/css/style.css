@@ -109,15 +109,15 @@ body {
 .gradient-background {
 	background: linear-gradient(
 		90deg,
-		rgba(0, 0, 0, 1) 0%,
-		rgba(8, 12, 14, 1) 10%,
-		rgba(14, 22, 25, 1) 20%,
-		rgba(24, 36, 42, 1) 30%,
-		rgba(34, 49, 60, 1) 50%,
-		rgba(21, 32, 38, 1) 70%,
-		rgba(14, 22, 25, 1) 80%,
-		rgba(8, 12, 14, 1) 90%,
-		rgba(0, 0, 0, 1) 100%
+		rgba(96, 19, 56, 1) 0%,
+		rgba(99, 40, 66, 1) 10%,
+		rgba(104, 54, 68, 1) 20%,
+		rgba(108, 59, 70, 1) 30%,
+		rgba(113, 64, 75, 1) 50%,
+		rgba(108, 59, 70, 1) 70%,
+		rgba(104, 54, 68, 1) 80%,
+		rgba(99, 40, 66, 1) 90%,
+		rgba(96, 19, 56, 1) 100%
 	);
 	position: absolute;
 	z-index: -1;
@@ -221,3 +221,4 @@ body {
 		transform: translateY(0);
 	}
 }
+
